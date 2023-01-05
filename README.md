@@ -6,7 +6,7 @@
 
 ## **Results**
 
-- **Four additional table filters were added to the webpage for the city, state, country, and shape respectively.**
+- **Four additional table filters were added to the webpage for the city, state, country, and shape, respectively.**
 
   <table>
   <tr>
@@ -17,7 +17,7 @@
   </tr>
   </table>
   
-- **Users are given an option to select the specific date, the location of the event, and the shape of the UFO to their reseach.**
+- **Users are given the option to select the specific date, the event's location, and the UFO's shape for their research.**
      
   <table>
   <tr>
@@ -32,7 +32,7 @@
 
 - **Disadvantage of the webpage:**
   
-    Searching only succeeds with correct format of the datetime; otherwise, a false result would   be returned. 
+    Searching will only succeed with the correct format of the DateTime; otherwise, a false result will be returned. 
     
   <table>
   <tr>
@@ -54,6 +54,6 @@
 
 - **Suggested improvements:**
   
-  - _**Recommendation 1: Expand the database to include the UFO sighting events worldwide.**_
+  - _**Recommendation 1: Expand the database to include UFO sighting events worldwide.**_
   
-  - _**Recommendation 2: Improve compatibility for searching function to ensure the keywords would be recognized in all formats.**_
+  - _**Recommendation 2: Improve compatibility for the searching function to ensure the keywords are recognized in all formats.**_
