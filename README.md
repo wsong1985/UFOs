@@ -13,7 +13,7 @@
     <td>Four Additional Table Filters</td>
   </tr>
   <tr>
-    <td><img src="PNG/Additional filters.PNG" width=400></td>
+    <td><img src="PNG/Additional_filters.PNG" width=400></td>
   </tr>
   </table>
   
