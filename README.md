@@ -10,27 +10,50 @@
 
   <table>
   <tr>
-    <td>The Scraped Information</td>
+    <td>Four Additional Table Filters</td>
   </tr>
   <tr>
-    <td><img src="PNG/part_1_mars_news.PNG" width=400></td>
+    <td><img src="PNG/Additional filters.PNG" width=400></td>
   </tr>
   </table>
   
 - **Users are given an option to select the specific date, the location of the event, and the shape of the UFO to their reseach.**
      
-  <img src="PNG/part_2_question_1.PNG" width=400>
+  <table>
+  <tr>
+    <td>Searching</td>
+  </tr>
+  <tr>
+    <td><img src="PNG/Searching.PNG" width=400></td>
+  </tr>
+  </table>
   
 ## **Summary**
 
-- **Disadvantage of the webpage:**_
+- **Disadvantage of the webpage:**
   
-  Answer: Please see below.
+    Searching only succeeds with correct format of the datetime; otherwise, a false result would   be returned. 
     
-  <img src="PNG/part_2_question_1.PNG" width=400>
+  <table>
+  <tr>
+    <td>Searching Succeeded</td>
+  </tr>
+  <tr>
+    <td><img src="PNG/Searching_succeeded.PNG" width=400></td>
+  </tr>
+  </table>
+  
+  <table>
+  <tr>
+    <td>Searching Failed</td>
+  </tr>
+  <tr>
+    <td><img src="PNG/Searching_failed.PNG" width=400></td>
+  </tr>
+  </table>
 
-- **Suggested improvements**_
+- **Suggested improvements:**
   
-  - _**Recommendation 1**_
+  - _**Recommendation 1: Expand the database to include the UFO sighting events worldwide.**_
   
-  - _**Recommendation 2**_
+  - _**Recommendation 2: Improve compatibility for searching function to ensure the keywords would be recognized in all formats.**_
