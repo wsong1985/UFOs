@@ -13,11 +13,11 @@
     <td>Four Additional Table Filters</td>
   </tr>
   <tr>
-    <td><img src="PNG/Additional filters.PNG" width=400></td>
+    <td><img src="PNG/Additional_filters.PNG" width=400></td>
   </tr>
   </table>
   
-- **Users are given the option to select the specific date, the event's location, and the UFO's shape for their research.**
+- **Users are given the option to select the specific date, the event's location, and the UFO's shape for their research. Once the keywords are entered in the filters, the webpage will automatically update the table with the filtered data.**
      
   <table>
   <tr>
